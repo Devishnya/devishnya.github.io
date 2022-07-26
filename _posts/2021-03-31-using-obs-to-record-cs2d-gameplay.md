@@ -1,5 +1,5 @@
 ---
-title: Enable Google Page Views
+title: Using OBS to Record CS2D. Setup, Specs, Tips, and Troubleshooting
 author:
   name: Denis Kryukov
   link: https://devishnya.github.io
