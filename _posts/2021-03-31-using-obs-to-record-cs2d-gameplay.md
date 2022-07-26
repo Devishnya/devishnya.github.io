@@ -10,7 +10,7 @@ tags: [google analytics, pageviews]
 
 Hello, world!
 
-CS2D doesn’t have a shortage of tournaments: With a number of competitive communities ([cs2d.eu](cs2d.eu) and [RU2D](cs-2d.ru)), 2020 has seen numerous events, including classic 1v1, classic 2v2, shotgun, laser, and so on. Too many tournaments, however, have been held with little to no coverage (i.e. match videos) — their only remnant is a [tournament bracket on Challonge](https://challonge.com/979j1hzb) (sad emoji.)
+CS2D doesn’t have a shortage of tournaments: With a number of competitive communities like CS2D.EU and RU2D, 2020 has seen numerous events, including classic 1v1, classic 2v2, shotgun, laser, and so on. Too many tournaments, however, have been held with little to no coverage (i.e. match videos) — their only remnant is a [tournament bracket on Challonge](https://challonge.com/979j1hzb) (sad emoji.)
 
 I love watching tournament matches; every now and then, I also re-watch old videos. To facilitate more CS2D content on YouTube, we're writing this guide to help you get started with recording CS2D matches. 
 
