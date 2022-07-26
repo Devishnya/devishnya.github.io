@@ -5,7 +5,7 @@ author:
   link: https://devishnya.github.io
 date: 2021-03-31 18:32:00 -0500
 categories: [Blogging, Tutorial]
-tags: [google analytics, pageviews]
+tags: [guide, OBS]
 ---
 
 Hello, world!
